@@ -1,0 +1,1 @@
+# MyBlocker.json
