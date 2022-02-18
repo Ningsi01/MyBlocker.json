@@ -1,1 +1,2 @@
-# MyBlocker.json
+.vscode
+My 
